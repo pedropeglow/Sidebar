@@ -4,7 +4,7 @@ Barra de navegação com modo Dark.
 
 <h4 align="center"> 
 	🏁  Sidebar 🚀 Finalizada...  🏁
-	Link: https://pdfgenerator-murdock-d9a8a1.netlify.app/
+	Link: https://pedropeglow.github.io/Sidebar/
 </h4>
 
 ### Features
